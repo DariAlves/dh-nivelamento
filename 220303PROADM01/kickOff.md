@@ -57,3 +57,5 @@ https://atom.io/
 **Livros**
 
 https://eloquentjavascript.net/
+
+https://github.com/cezaraugusto/You-Dont-Know-JS
