@@ -53,3 +53,7 @@ https://jseditor.io/
 https://code.visualstudio.com/?wt.mc_id=DX_841432
 
 https://atom.io/
+
+**Livros**
+
+https://eloquentjavascript.net/
