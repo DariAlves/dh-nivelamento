@@ -59,3 +59,9 @@ https://atom.io/
 https://eloquentjavascript.net/
 
 https://github.com/cezaraugusto/You-Dont-Know-JS
+
+**Sites de desafios**
+
+https://www.hackerrank.com/
+
+https://www.codewars.com/
